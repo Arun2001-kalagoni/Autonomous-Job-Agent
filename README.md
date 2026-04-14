@@ -48,5 +48,3 @@ python app.py
 ```
 The terminal will prompt you for your desired target position, location, and the maximum age of the listing. The bot will then take over the browser completely.
 
-## ⚠️ Safety Protocols
-Because the bot directly handles PII (Personally Identifiable Information), it implements a strict **Human-in-the-Loop** circuit breaker. Upon reaching the final stages of an application, the bot will intentionally freeze and issue a terminal alert, giving the user explicit veto-power over the final `Submit` click.
