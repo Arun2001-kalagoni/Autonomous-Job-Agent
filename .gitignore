@@ -1,0 +1,18 @@
+# Personal and Sensitive Data
+data/state.json
+data/career_memory/
+data/*.db
+data/*.pdf
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# OS Files
+.DS_Store

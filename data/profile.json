@@ -1,0 +1,39 @@
+{
+  "Personal_Information": {
+    "City": "overland park",
+    "State": "",
+    "Country": "United States",
+    "Zip_Code": "66223",
+    "Phone_Number": "555-019-9283"
+  },
+  "Demographics": {
+    "Gender": "Male",
+    "Hispanic_or_Latino": "No",
+    "Race_or_Ethnicity": "Asian",
+    "Veteran_Status": "I am not a protected veteran",
+    "Disability_Status": "No, I do not have a disability and have not had one in the past"
+  },
+  "Legal_and_Compliance": {
+    "US_Work_Authorization": "Yes, I am authorized",
+    "Requires_Visa_Sponsorship": "No",
+    "Committed_a_Crime": "No",
+    "Have_Conflict_of_Interest": "No",
+    "Related_to_Current_Company_Employees": "No",
+    "Previously_Employed_by_Company": "No",
+    "Have_Non_Compete_Agreements": "No"
+  },
+  "Communication_and_Consent": {
+    "Preferred_Method_of_Contact": "Email",
+    "Receive_Promotional_Emails_or_Job_Alerts": "No",
+    "Agree_to_Terms_of_Service_and_Privacy_Policies": "Yes",
+    "Agree_to_Background_Checks": "Yes",
+    "Open_to_Temporary_or_Contract_Roles": "Yes"
+  },
+  "Job_Logistics": {
+    "LinkedIn_Profile_URL": "https://www.linkedin.com/in/arunkalagoni",
+    "Willing_to_work_hybrid_or_onsite": "Yes",
+    "How_did_you_hear_about_this_job": "Glassdoor",
+    "Met_at_events": "None",
+    "Invite_to_recruiting_events": "No"
+  }
+}
